@@ -9,7 +9,6 @@ After receiving this message, run the player file with Python version 3 and ente
 Below is a brief description for better understanding.
 
 #### How to use the script
-
 <br>
 1 : git clone https://github.com/amirhoseinsb/Cloud_Player_V2.git
 <br>
